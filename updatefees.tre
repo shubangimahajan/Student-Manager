@@ -1,0 +1,25 @@
+PAGE
+    Toplevel: New_Toplevel
+        Label: Label2  
+        Label: Label3  
+        Label: Label4  
+        Label: Label5  
+        Label: Label6  
+        Label: Label7  
+        Label: Label8  
+        Label: Label9  
+        Button: bupdate  
+        Button: bsearch  
+        Entry: eadmno  
+        Entry: ename  
+        Entry: eadmfees  
+        Entry: eannual  
+        Entry: etution  
+        Entry: efine  
+        Entry: etotal  
+        TCombobox: cclass  
+        Menu Bar
+        Label: Label1  
+        Button: bdelete  
+        Entry: ereciept  
+

@@ -1,0 +1,31 @@
+p{font-family:georgia;}
+
+h3{font-size:30px;}
+
+body{font-size:10px;}
+
+h1{font-size:2em; font-family:cute font;}
+
+h2{font-size:2em; font-family:merriweather}
+
+span{font-size:3em;}
+
+div p:nth-of-type(2){line height:2;}
+
+p:nth-of-type(1){text-align:center;}
+
+body{font-family:arial;}
+
+h2{font-weight:bold;}
+
+h1{text-decoration:underline;}
+
+h1{text-transform:uppercase;}
+
+h2:hover{color:yellow}
+
+.colors{color:blue;}
+
+
+
+

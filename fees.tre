@@ -1,0 +1,12 @@
+PAGE
+    Toplevel: New_Toplevel
+        Label: Label1  
+        Label: Label2  
+        Label: Label3  
+        Label: Label4  
+        Label: Label5  
+        Label: Label6  
+        Label: Label7  
+        Label: Label8  
+        Label: Label9  
+
